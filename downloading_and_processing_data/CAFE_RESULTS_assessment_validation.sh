@@ -1,4 +1,6 @@
-# reviewer comment
+# reviewer asked for some leve of validation. 
+# sure, below I use their comments to direct work
+
 # what would validation be at this point?
 # This additional work is fundamental to rule out gene annotation errors as the source of what the authors
 # described as “surprising correlations” between gene family expansions/contractions and phenotypic variation across lepidopterans
