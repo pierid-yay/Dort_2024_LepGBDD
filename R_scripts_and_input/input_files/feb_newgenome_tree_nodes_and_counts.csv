@@ -1,60 +1,60 @@
-ggtree.node,Species,Taxonomy,Node ID,Node type,Genes (post filter),Expansions,Rapid expansions,Contractions,Rapid contractions,Extinctions,No change,Branch length,Split time,Bootstrap,Ancestral node,Descendant nodes,Fam_264_count,Fam_489_count
-1,P. xylostella,Pluxyl,Pluxyl,Tip,15713,1547,38,278,17,0,7812,127.3,NA,NA,Node1,NA,9,14
-2,A. honmai,Adohon,Adohon,Tip,14813,1125,45,791,30,574,7721,60,NA,NA,Node3,NA,5,11
-3,C. splendana,Cydspl,Cydspl,Tip,16470,1233,90,414,5,282,7990,60,NA,NA,Node3,NA,7,15
-33,,Node3,Node3,Internal,13768,586,48,627,3,559,8424,55.1,60,NA,Node5,Adohon;Cydspl,6,10
-4,P. glaucus,Papgla,Papgla,Tip,13542,1365,65,1280,20,1078,6992,23.8,NA,NA,Node7,NA,5,1
-5,P. polytes,Pappol,Pappol,Tip,13462,943,46,718,173,475,7976,14.5,NA,NA,Node9,NA,4,1
-6,P. machaon,Papmac,Papmac,Tip,14766,1304,108,377,75,216,7956,10.8,NA,NA,Node11,NA,5,1
-7,P. xuthus,Papxut,Papxut,Tip,13907,965,33,463,132,251,8209,10.8,NA,NA,Node11,NA,3,2
-38,,Node11,Node11,Internal,13260,236,34,146,62,109,9255,3.7,10.8,NA,Node9,Papmac;Papxut,4,1
-37,,Node9,Node9,Internal,13132,177,13,158,23,77,9302,9.3,14.5,NA,Node7,Pappol;Node11,4,1
-36,,Node7,Node7,Internal,13078,459,6,633,19,433,8545,74.5,23.8,NA,Node13,Papgla;Node9,4,1
-8,L. accius,Leracc,Leracc,Tip,13536,1562,18,1558,34,1247,6517,92.4,NA,NA,Node15,NA,4,0
-9,P. sennae,Phosen,Phosen,Tip,14869,1368,76,363,10,233,7906,51.7,NA,NA,Node17,NA,5,1
-10,P. napi,Pienap,Pienap,Tip,13465,1088,33,970,39,703,7579,51.7,NA,NA,Node17,NA,4,1
-41,,Node17,Node17,Internal,13088,435,11,546,8,460,8656,33.2,51.7,NA,Node19,Phosen;Pienap,4,1
-11,C. cecrops,Calcec,Calcec,Tip,15763,2058,119,1568,20,1353,6011,78.6,NA,NA,Node21,NA,6,0
-12,D. plexippus,Danple,Danple,Tip,14575,1747,31,948,33,665,6942,69.4,NA,NA,Node23,NA,4,1
-13,B. anynana,Bicany,Bicany,Tip,15328,1747,60,770,10,596,7120,63.8,NA,NA,Node25,NA,4,1
-14,H. melpomene,Helmel,Helmel,Tip,14641,680,45,341,117,219,8616,11.8,NA,NA,Node27,NA,4,3
-15,H. erato demophoon,Heldem,Heldem,Tip,14638,752,156,605,219,183,8280,1,NA,NA,Node29,NA,4,1
-16,H. erato lativitta,Hellat,Hellat,Tip,16235,1852,329,1006,214,751,6779,1,NA,NA,Node29,NA,6,1
-47,,Node29,Node29,Internal,14271,440,33,211,72,146,8986,10.8,1,NA,Node27,Heldem;Hellat,4,1
-46,,Node27,Node27,Internal,13933,712,31,397,15,251,8528,43,11.8,NA,Node31,Helmel;Node29,4,1
-17,J. coenia,Juncoe,Juncoe,Tip,15798,930,113,348,11,169,8359,29.6,NA,NA,Node33,NA,3,5
-18,M. cinxia,Melcin,Melcin,Tip,15348,1691,84,966,39,735,6980,29.6,NA,NA,Node33,NA,5,0
-49,,Node33,Node33,Internal,13878,320,29,153,78,121,9164,8.2,29.6,NA,Node35,Juncoe;Melcin,4,1
-19,V. cardui,Vancar,Vancar,Tip,14889,1245,57,477,24,260,7915,37.8,NA,NA,Node35,NA,4,2
-48,,Node35,Node35,Internal,13591,206,33,153,3,125,9278,17,37.8,NA,Node31,Node33;Vancar,4,1
-45,,Node31,Node31,Internal,13302,77,10,69,8,52,9491,9,54.8,NA,Node25,Node27;Node35,4,1
-44,,Node25,Node25,Internal,13238,66,7,47,9,33,9524,5.6,63.8,NA,Node23,Bicany;Node31,4,1
-43,,Node23,Node23,Internal,13207,80,4,60,6,33,9497,9.2,69.4,NA,Node21,Danple;Node25,4,1
-42,,Node21,Node21,Internal,13178,95,6,56,4,43,9486,6.3,78.6,NA,Node19,Calcec;Node23,4,1
-40,,Node19,Node19,Internal,13124,73,8,56,4,39,9508,7.5,84.9,NA,Node15,Node17;Node21,4,1
-39,,Node15,Node15,Internal,13084,41,2,82,9,66,9514,5.9,92.4,NA,Node13,Leracc;Node19,4,1
-35,,Node13,Node13,Internal,13121,51,3,208,17,127,9378,9.3,98.3,NA,Node37,Node7;Node15,4,1
-20,H. kahamanoa,Hypkah,Hypkah,Tip,15866,1658,82,1038,18,834,6941,105.2,NA,NA,Node39,NA,9,2
-21,O. nubilalis,Ostnub,Ostnub,Tip,14372,1680,31,980,17,753,6977,91.6,NA,NA,Node41,NA,8,4
-22,A. transitella,Amytra,Amytra,Tip,15328,1446,71,394,8,262,7797,33,NA,NA,Node43,NA,7,9
-23,P. interpunctella,Ploint,Ploint,Tip,14591,1273,45,531,26,338,7833,33,NA,NA,Node43,NA,6,5
-53,,Node43,Node43,Internal,13529,686,12,268,14,165,8683,58.6,33,NA,Node41,Amytra;Ploint,6,5
-52,,Node41,Node41,Internal,12889,25,3,311,116,288,9301,9.7,91.6,NA,Node45,Ostnub;Node43,6,3
-24,B. mori,Bommor,Bommor,Tip,14271,1278,20,859,37,623,7500,70.3,NA,NA,Node47,NA,8,7
-25,H. vespertilio,Hylves,Hylves,Tip,17686,2120,140,349,2,249,7168,42.8,NA,NA,Node49,NA,5,2
-26,M. sexta,Mansex,Mansex,Tip,15226,1281,49,730,24,518,7626,42.8,NA,NA,Node49,NA,4,2
-57,,Node49,Node49,Internal,14182,662,31,128,0,95,8847,27.5,42.8,NA,Node47,Hylves;Mansex,5,2
-56,,Node47,Node47,Internal,13410,294,13,134,5,107,9209,18.4,70.3,NA,Node51,Bommor;Node49,6,3
-27,O. brumata,Opebru,Opebru,Tip,16337,2273,78,1033,8,841,6331,88.7,NA,NA,Node51,NA,7,2
-55,,Node51,Node51,Internal,13189,11,5,157,70,156,9469,2.5,88.7,NA,Node53,Node47;Opebru,6,3
-28,A. plantaginis,Arcpla,Arcpla,Tip,14956,1183,73,977,25,721,7477,68.5,NA,NA,Node55,NA,9,3
-29,S. frugiperda,Spofru,Spofru,Tip,16107,1777,81,395,11,264,7465,60.6,NA,NA,Node57,NA,18,6
-30,T. ni,Tricni,Tricni,Tip,15404,1640,43,599,22,421,7398,60.6,NA,NA,Node57,NA,8,2
-59,,Node57,Node57,Internal,13570,152,5,107,47,79,9378,7.9,60.6,NA,Node55,Spofru;Tricni,8,3
-58,,Node55,Node55,Internal,13503,289,19,251,4,210,9097,22.7,68.5,NA,Node53,Arcpla;Node57,8,3
-54,,Node53,Node53,Internal,13333,194,18,97,9,80,9346,10.1,91.2,NA,Node45,Node51;Node55,6,3
-51,,Node45,Node45,Internal,13171,18,3,31,2,26,9588,3.9,101.3,NA,Node39,Node41;Node53,6,3
-50,,Node39,Node39,Internal,13184,23,3,137,14,136,9477,2.4,105.2,NA,Node37,Hypkah;Node45,6,3
-34,,Node37,Node37,Internal,13298,37,0,33,5,18,9567,7.5,107.6,NA,Node5,Node13;Node39,6,3
-32,,Node5,Node5,Internal,13297,26,0,6,1,1,9605,12.2,115.1,NA,Node1,Node3;Node37,6,4
-31,,Node1,Node1,ROOT,0,0,0,0,0,0,0,NA,127.3,NA,NA,Pluxyl;Node5,NA,NA
+ggtree.node,Species,Node ID,Node type,Genes (post filter),Expansions,Rapid expansions,Contractions,Rapid contractions,Extinctions,No change,Branch length,Split time,Bootstrap,Ancestral node,Descendant nodes,Fam_264_count,Fam_489_count
+1,P. xylostella,Pluxyl,Tip,15713,1542,39,277,17,0,7818,127.3,NA,NA,Node1,NA,9,14
+2,A. honmai,Adohon,Tip,14813,1127,46,783,32,574,7727,60,NA,NA,Node3,NA,5,11
+3,C. splendana,Cydspl,Tip,16470,1233,92,409,6,282,7995,60,NA,NA,Node3,NA,7,15
+33,,Node3,Internal,13751,571,50,623,3,559,8443,55.1,60,NA,Node5,Adohon;Cydspl,6,10
+4,P. glaucus,Papgla,Tip,13542,1356,55,1323,22,1078,6958,23.8,NA,NA,Node7,NA,5,1
+5,P. polytes,Pappol,Tip,13462,921,38,774,36,475,7942,14.5,NA,NA,Node9,NA,4,1
+6,P. machaon,Papmac,Tip,14766,1279,103,412,67,216,7946,10.8,NA,NA,Node11,NA,5,1
+7,P. xuthus,Papxut,Tip,13907,939,30,502,126,251,8196,10.8,NA,NA,Node11,NA,3,2
+38,,Node11,Internal,13341,213,26,149,56,109,9275,3.7,10.8,NA,Node9,Papmac;Papxut,4,1
+37,,Node9,Internal,13243,197,9,141,19,77,9299,9.3,14.5,NA,Node7,Pappol;Node11,4,1
+36,,Node7,Internal,13162,468,6,625,12,433,8544,74.5,23.8,NA,Node13,Papgla;Node9,4,1
+8,L. accius,Leracc,Tip,13536,1548,16,1580,19,1247,6509,92.4,NA,NA,Node15,NA,4,0
+9,P. sennae,Phosen,Tip,14869,1364,50,376,13,233,7897,51.7,NA,NA,Node17,NA,5,1
+10,P. napi,Pienap,Tip,13465,1087,21,989,38,703,7561,51.7,NA,NA,Node17,NA,4,1
+41,,Node17,Internal,13141,406,10,560,6,460,8671,33.2,51.7,NA,Node19,Phosen;Pienap,4,1
+11,C. cecrops,Calcec,Tip,15763,2039,114,1591,6,1353,6007,78.6,NA,NA,Node21,NA,6,0
+12,D. plexippus,Danple,Tip,14575,1731,29,975,34,665,6931,69.4,NA,NA,Node23,NA,4,1
+13,B. anynana,Bicany,Tip,15328,1718,54,792,10,596,7127,63.8,NA,NA,Node25,NA,4,1
+14,H. melpomene,Helmel,Tip,14641,663,45,360,108,219,8614,11.8,NA,NA,Node27,NA,4,3
+15,H. erato demophoon,Heldem,Tip,14638,744,141,613,208,183,8280,1,NA,NA,Node29,NA,4,1
+16,H. erato lativitta,Hellat,Tip,16235,1847,318,1010,203,751,6780,1,NA,NA,Node29,NA,6,1
+47,,Node29,Internal,14305,431,28,218,65,146,8988,10.8,1,NA,Node27,Heldem;Hellat,4,1
+46,,Node27,Internal,13996,684,29,417,17,251,8536,43,11.8,NA,Node31,Helmel;Node29,4,1
+17,J. coenia,Juncoe,Tip,15798,917,103,391,13,169,8329,29.6,NA,NA,Node33,NA,3,5
+18,M. cinxia,Melcin,Tip,15348,1667,79,994,39,735,6976,29.6,NA,NA,Node33,NA,5,0
+49,,Node33,Internal,13983,306,26,155,56,121,9176,8.2,29.6,NA,Node35,Juncoe;Melcin,4,1
+19,V. cardui,Vancar,Tip,14889,1204,42,512,26,260,7921,37.8,NA,NA,Node35,NA,4,2
+48,,Node35,Internal,13727,219,32,156,2,125,9262,17,37.8,NA,Node31,Node33;Vancar,4,1
+45,,Node31,Internal,13430,98,10,72,7,52,9467,9,54.8,NA,Node25,Node27;Node35,4,1
+44,,Node25,Internal,13348,69,8,47,8,33,9521,5.6,63.8,NA,Node23,Bicany;Node31,4,1
+43,,Node23,Internal,13313,79,5,61,5,33,9497,9.2,69.4,NA,Node21,Danple;Node25,4,1
+42,,Node21,Internal,13283,97,6,56,3,43,9484,6.3,78.6,NA,Node19,Calcec;Node23,4,1
+40,,Node19,Internal,13227,87,12,54,1,39,9496,7.5,84.9,NA,Node15,Node17;Node21,4,1
+39,,Node15,Internal,13168,44,2,78,6,66,9515,5.9,92.4,NA,Node13,Leracc;Node19,4,1
+35,,Node13,Internal,13198,76,6,201,16,127,9360,9.3,98.3,NA,Node37,Node7;Node15,4,1
+20,H. kahamanoa,Hypkah,Tip,15866,1645,80,1030,20,834,6962,105.2,NA,NA,Node39,NA,9,2
+21,O. nubilalis,Ostnub,Tip,14372,1669,36,973,26,753,6995,91.6,NA,NA,Node41,NA,8,4
+22,A. transitella,Amytra,Tip,15328,1449,77,392,10,262,7796,33,NA,NA,Node43,NA,7,9
+23,P. interpunctella,Ploint,Tip,14591,1273,45,524,29,338,7840,33,NA,NA,Node43,NA,6,5
+53,,Node43,Internal,13521,662,11,265,18,165,8710,58.6,33,NA,Node41,Amytra;Ploint,6,5
+52,,Node41,Internal,12929,44,2,314,114,288,9279,9.7,91.6,NA,Node45,Ostnub;Node43,6,3
+24,B. mori,Bommor,Tip,14271,1283,23,851,45,623,7503,70.3,NA,NA,Node47,NA,8,7
+25,H. vespertilio,Hylves,Tip,17686,2123,143,343,2,249,7171,42.8,NA,NA,Node49,NA,5,2
+26,M. sexta,Mansex,Tip,15226,1284,49,719,25,518,7634,42.8,NA,NA,Node49,NA,4,2
+57,,Node49,Internal,14157,655,35,129,1,95,8853,27.5,42.8,NA,Node47,Hylves;Mansex,5,2
+56,,Node47,Internal,13394,294,13,137,29,107,9206,18.4,70.3,NA,Node51,Bommor;Node49,6,3
+27,O. brumata,Opebru,Tip,16337,2277,82,1022,13,841,6338,88.7,NA,NA,Node51,NA,7,2
+55,,Node51,Internal,13176,11,5,160,68,156,9466,2.5,88.7,NA,Node53,Node47;Opebru,6,3
+28,A. plantaginis,Arcpla,Tip,14956,1189,75,965,30,721,7483,68.5,NA,NA,Node55,NA,9,3
+29,S. frugiperda,Spofru,Tip,16107,1785,79,389,11,264,7463,60.6,NA,NA,Node57,NA,18,6
+30,T. ni,Tricni,Tip,15404,1640,43,588,26,421,7409,60.6,NA,NA,Node57,NA,8,2
+59,,Node57,Internal,13553,155,7,108,42,79,9374,7.9,60.6,NA,Node55,Spofru;Tricni,8,3
+58,,Node55,Internal,13482,286,17,255,4,210,9096,22.7,68.5,NA,Node53,Arcpla;Node57,8,3
+54,,Node53,Internal,13322,175,16,107,15,80,9355,10.1,91.2,NA,Node45,Node51;Node55,6,3
+51,,Node45,Internal,13197,16,2,31,2,26,9590,3.9,101.3,NA,Node39,Node41;Node53,6,3
+50,,Node39,Internal,13212,15,3,139,5,136,9483,2.4,105.2,NA,Node37,Hypkah;Node45,6,3
+34,,Node37,Internal,13336,48,1,30,7,18,9559,7.5,107.6,NA,Node5,Node13;Node39,6,3
+32,,Node5,Internal,13319,34,0,4,1,1,9599,12.2,115.1,NA,Node1,Node3;Node37,6,4
+31,,Node1,ROOT,0,0,0,0,0,0,0,NA,127.3,NA,NA,Pluxyl;Node5,NA,NA
