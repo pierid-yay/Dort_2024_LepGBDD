@@ -16,7 +16,6 @@ report cafe_reports/building_errormodel_filter_r1
 python2 /mnt/griffin/handor/software/CAFE/cafe/caferror.py -i new_genomes_errormodel_cafe.sh -d cafe_reports/new_genomes_errormodel_filter_r1 -v 0 -f 1
 
 #### TWO DAYS LATER #####
-
 # We have our output, after 28 different runs.
 
 # Global Error Estimation:         0.100390625
