@@ -1,5 +1,6 @@
 #!/bin/bash
 # requirements
+
 # 1: you need the protein master file of all the sequences
 # that is set here
 proteins=new_genomes_isofilt_startstop_filt_blast_input.fa
