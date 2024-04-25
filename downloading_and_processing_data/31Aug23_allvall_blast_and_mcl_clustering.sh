@@ -85,7 +85,7 @@ python /mnt/griffin/handor/Lep_Evolution/CAFE_tutorial/python_scripts/cafetutori
 # You can do this with, e.g.,
 head -1 dump.new_genomes_Aug23_blast_output.mci.I30 | grep -o 'Adohon' | wc -l
 # 103
-# If we then look at out not_sizefiltered... file, we'll see a count of 103 for family 1. 
+# If we then look at our not_sizefiltered... file, we'll see a count of 103 for family 1. 
 
 # filter out gene families where one or more species has more than 100 copies
 # because these families can cause parameter estimates tgo be non-informative
