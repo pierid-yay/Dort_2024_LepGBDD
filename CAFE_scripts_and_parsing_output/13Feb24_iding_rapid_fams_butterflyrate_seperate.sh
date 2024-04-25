@@ -37,7 +37,6 @@ cd /mnt/griffin/handor/2023_CAFE_redo/all_v_all_blast/output/node13_getfams
 grep '^280' butterflyrate_lambdamu_r3.cafe|cut -f 1,4 
 
 # The first number in the 19th set of parentheses is our p-value for node 13.
-
 # What if we want counts at each node?
 # Family ID       Pluxyl<0>       Adohon<2>       Cydspl<4>       <3>     Papgla<6>       Pappol<8>       Papmac<10>      Papxut<12>    <11>    <9>     <7>     Leracc<14>      Phosen<16>      Pienap<18>      <17>    Calcec<20>      Danple<22>      Bicany<24>    Helmel<26>      Heldem<28>      Hellat<30>      <29>    <27>    Juncoe<32>      Melcin<34>      <33>    Vancar<36>   <35>     <31>    <25>    <23>    <21>    <19>    <15>    <13>    Hypkah<38>      Ostnub<40>      Amytra<42>      Ploint<44>   <43>     <41>    Bommor<46>      Hylves<48>      Mansex<50>      <49>    <47>    Opebru<52>      <51>    Arcpla<54>      Spofru<56>    Tricni<58>      <57>    <55>    <53>    <45>    <39>    <37>    <5>
 
