@@ -1,6 +1,5 @@
 # 09 Sept 2023
 # Parsing cafe output for downstream analyses
-
 # Now that the cafe runs are done, it's time to put the output in our Bayesian model
 # But first we need to parse it and pair it with our host order counts.
 
