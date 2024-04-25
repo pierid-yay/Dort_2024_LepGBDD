@@ -5,7 +5,6 @@
 # This additional work is fundamental to rule out gene annotation errors as the source of what the authors
 # described as “surprising correlations” between gene family expansions/contractions and phenotypic variation across lepidopterans
 
-
 # Manual validation of some gene duplicates and gene losses should be performed.
 # General validations include checking the length of gene duplicates that appear only in one species;
 # they can be due to gene fragmentation. Gene family expansions associated in diet breath can be easily tested to rule out possible gene fragmentations.
