@@ -285,6 +285,5 @@ grep -c '>' *..startstop*fa
 
 # All counts identical to the -J filtered sets
 # So the -J flag does do what we hoped it did.
-
 /data/programs/cufflinks-2.2.1.Linux_x86_64/gffread  GCF_932276165.1_ilPluXylo3.1_genomic.gff -g Pluxyl_MASKED_3.1_NEW_genome.fa.softmasked.ed.fa -y Pluxyl.RAWnative.prot.fa
 /data/programs/cufflinks-2.2.1.Linux_x86_64/gffread  OGS7.0_20190530.gff -g Spofru_corn_v7_genome.fa -J -y Spofru.startstop.noiso.prot.fa
