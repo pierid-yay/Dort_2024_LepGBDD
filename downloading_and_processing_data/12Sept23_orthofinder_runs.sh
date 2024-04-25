@@ -2,7 +2,6 @@
 
 # Sometimes, you might want to run your protein sets through a tool called Orthofinder
 # As it can give you a LOT of useful statistics.
-
 # Here, we do orthofinder runs for our filtered braker2 protein sets
 # And our raw native protein sets.
 
